@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       
       <p>Home Page</p>
+      <h1>my content</h1>
+      <p>second page</p>
     </div>
   );
 }
